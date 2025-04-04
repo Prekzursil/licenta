@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MY BUDGET</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email Id</string>
+    <string name="passowrd">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="show_pwd">Show Password</string>
+    <string name="hide_pwd">Hide Password</string>
+    <string name="closebutton">Close Button for Activity</string>
+    <string name="newUser">Not a Member yet? Sign Up here.</string>
+    <string name="fullName">Full Name</string>
+    <string name="mobileNumber">Mobile Number</string>
+    <string name="location">Location</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="terms_conditions">By clicking SignUp you agree all the Terms and Conditions.</string>
+    <string name="signUp">SIGN UP</string>
+    <string name="already_user">Already have Account? Login here.</string>
+    <string name="registered_emailid">Please enter your Registered Email Id below:</string>
+    <string name="submit">SUBMIT</string>
+    <string name="back">BACK</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="default_web_client_id">474332582091-jn1pe7g2240oa322oot1454vte4m1nv3.apps.googleusercontent.com</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="log_out">Log out</string>
+    <string name="home">Home</string>
+    <string name="alerts">Alerts</string>
+    <string name="income">INCOME</string>
+    <string name="expense">EXPENSE</string>
+    <string name="transactions">TRANSACTIONS</string>
+    <string name="show_all">Show All</string>
+    <string name="click_icon_to_confirm_download">Click icon to confirm download</string>
+    <string name="pdf_file_will_be_located_in_documents_folder">PDF File will be located in Documents folder.</string>
+    <string name="change_budget">CHANGE BUDGET</string>
+    <string name="amount_to_set_budget_this_month">Amount to set budget this month</string>
+    <string name="set_budgets_carefully_you_will_receive_alerts_when_you_spend_more_than_half_of_the_allocated_budget">Set budgets carefully. You will receive alerts when you spend more than half of the allocated budget.</string>
+    <string name="add_reminder">ADD REMINDER</string>
+    <string name="what_do_you_want_to_be_reminded_of">What do you want to be reminded of?</string>
+    <string name="reminder">Reminder</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="reminders">REMINDERS</string>
+    <string name="current_budget">Current Budget</string>
+    <string name="spend_money_my_budget_way">Spend money my budget - way !</string>
+    <string name="add_expense">ADD EXPENSE</string>
+    <string name="textview">TextView</string>
+    <string name="enter_the_amount_spent">Enter the amount spent</string>
+    <string name="enter_tag">Enter tag</string>
+    <string name="no_text_available">No Text Available</string>
+    <string name="proceed">Proceed</string>
+    <string name="tip_of_the_day">Tip of the day</string>
+    <string name="note_down_all_your_spendings_and_track_them_this_might_help_you_in_setting_goals_to_save_money">Note down all your spendings and track them. This might help you in setting goals to save money.</string>
+    <string name="add_income">ADD INCOME</string>
+    <string name="enter_the_amount_taken">Enter the amount taken</string>
+    <string name="all_transactions">All Transactions</string>
+    <string name="expenses_pie_chart">EXPENSES PIE CHART</string>
+    <string name="download_report">Download Report</string>
+    <string name="scan">scan</string>
+    <string name="take">take</string>
+    <string name="pay">pay</string>
+    <string name="login_to_continue">LOGIN TO CONTINUE</string>
+
+</resources>

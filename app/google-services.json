@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "474332582091",
+    "firebase_url": "https://restnet-9f042-default-rtdb.firebaseio.com",
+    "project_id": "restnet-9f042",
+    "storage_bucket": "restnet-9f042.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474332582091:android:192b043863f365c845cb4e",
+        "android_client_info": {
+          "package_name": "com.alpha.ashique.restnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474332582091-jn1pe7g2240oa322oot1454vte4m1nv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAydUro8Gzyaoxo8NN1EZUm5M-ylYazSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474332582091-jn1pe7g2240oa322oot1454vte4m1nv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474332582091:android:b997737f09f7dd7845cb4e",
+        "android_client_info": {
+          "package_name": "com.alpha.bakery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474332582091-3agen2s6hm0jvv9m5h7dae76ghg374s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alpha.bakery",
+            "certificate_hash": "f1d05927efdab4a20deb1055522d9c45ab3dc1d0"
+          }
+        },
+        {
+          "client_id": "474332582091-jn1pe7g2240oa322oot1454vte4m1nv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAydUro8Gzyaoxo8NN1EZUm5M-ylYazSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474332582091-jn1pe7g2240oa322oot1454vte4m1nv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474332582091:android:728a2ef75311e22f45cb4e",
+        "android_client_info": {
+          "package_name": "com.preethi.thrifty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474332582091-jn1pe7g2240oa322oot1454vte4m1nv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAydUro8Gzyaoxo8NN1EZUm5M-ylYazSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474332582091-jn1pe7g2240oa322oot1454vte4m1nv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
